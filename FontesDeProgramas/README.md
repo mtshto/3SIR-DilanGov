@@ -1,0 +1,1 @@
+# Guarde nessa pasta somente progamas fonte de aplicação(.c, .java, .sql)
